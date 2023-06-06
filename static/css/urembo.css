@@ -1,0 +1,95 @@
+ul{
+list-style-type: none;
+    background-color: #0c0c54;
+    overflow: hidden;
+
+}
+    li{
+        float:left;
+
+}
+li,a{
+    padding: 15px;
+    display: block;
+    color: white;
+    font-family: "DejaVu Sans Mono";
+    font-size: 20px;
+    
+}li a:hover{
+    background-color: #65a922;}
+ .fruits {
+     background-color: #2b6405;
+     border: 2px dotted red;
+     margin: 20px;
+     padding: 20px;
+     text-align: center;
+     font-family: "DejaVu Sans Mono";
+
+ }
+ .cars{
+     background-color: #053f3f;
+     border: 2px dotted dodgerblue;
+     margin: 30px;
+     padding: 30px;
+     text-align: center;
+     font-family: "Fira Code";
+ }
+
+ .books{
+     background-color: darkcyan;
+     border: 2px dotted lightgreen;
+     margin: 40px;
+     padding: 30px;
+     text-align: end;
+     font-family: "Bitstream Charter";
+
+ }
+ .school{
+     background-color: #0f9898;
+     border: 3px dotted yellowgreen;
+     margin: 30px;
+     padding: 30px;
+     text-align: center;
+     font-family: Chilanka;
+ }
+ .house{
+     background-color: #803906;
+     border: 2px dotted #ab9393;
+     margin: 30px;
+     padding: 30px;
+     text-align: end;
+     font-family: "DejaVu Serif";
+ }
+
+ #gari{
+     background-color: #0c0c54;
+     border: 2px dotted mediumvioletred;
+     margin: 30px;
+     padding: 30px;
+     text-align: center;
+     font-family: "DejaVu Sans Mono";}
+ #matunda{
+     background-color: #0f9898;
+     border: 2px dotted darkslategray;
+     margin: 30px;
+     padding: 30px;
+     font-family: Chilanka;
+
+
+ }
+ #nyumba{
+     background-color: #65a922;
+     border: 2px dotted lightcoral;
+     margin: 30px;
+     padding: 30px;
+     font-family: "Abyssinica SIL";
+ }
+
+
+
+
+
+
+
+
+
